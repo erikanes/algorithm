@@ -46,3 +46,6 @@
 
 
 ## BOJ
+|문제 번호|문제 이름|난이도|날짜|
+|:---:|:---:|:---:|:---:|
+|2563|색종이|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230107|
