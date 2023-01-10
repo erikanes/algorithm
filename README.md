@@ -51,3 +51,4 @@
 |:---:|:---:|:---:|:---:|
 |2563|색종이|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230107|
 |25305|커트라인|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230109|
+|2738|행렬 덧셈|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230110|
