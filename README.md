@@ -54,3 +54,4 @@
 |25305|커트라인|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230109|
 |2738|행렬 덧셈|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230110|
 |2566|최댓값|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230112|
+|11051|이항 계수 2|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230113|
