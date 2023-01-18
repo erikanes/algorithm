@@ -59,3 +59,4 @@
 |25501|재귀의 귀재|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230115|
 |7568|덩치|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230116|
 |1085|직사각형에서 탈출|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230117|
+|1904|01 타일|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230118|
