@@ -63,3 +63,4 @@
 |9461|파도반 수열|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230119|
 |3009|네 번째 점|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230120|
 |2609|최대공약수와 최소공배수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/5.svg>|230121|
+|4153|직각삼각형|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230122|
