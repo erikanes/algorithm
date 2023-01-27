@@ -68,3 +68,4 @@
 |1292|쉽게 푸는 문제|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/5.svg>|230123|
 |1010|다리 놓기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230125|
 |1205|등수 구하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230126|
+|1032|명령 프롬프트|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/5.svg>|230127|
