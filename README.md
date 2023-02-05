@@ -73,3 +73,5 @@
 |11866|요세푸스 문제 0|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230128|
 |11060|점프 점프|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230202|
 |16173|점프왕 쩰리 (Small)|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230204|
+|1927|최소 힙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230205|
+|11279|최대 힙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230205|
