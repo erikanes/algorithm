@@ -76,3 +76,4 @@
 |1927|최소 힙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230205|
 |11279|최대 힙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230205|
 |1302|베스트셀러|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230206|
+|2075|N번째 큰 수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230207|
