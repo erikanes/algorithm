@@ -78,3 +78,4 @@
 |1302|베스트셀러|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230206|
 |2075|N번째 큰 수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230207|
 |2776|암기왕|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230208|
+|2493|탑|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230209|
