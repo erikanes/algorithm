@@ -80,3 +80,4 @@
 |2776|암기왕|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230208|
 |2493|탑|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230209|
 |15787|기차가 어둠을 헤치고 은하수를|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230210|
+|13701|중복제거|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230211|
