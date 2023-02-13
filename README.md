@@ -82,3 +82,4 @@
 |15787|기차가 어둠을 헤치고 은하수를|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230210|
 |13701|중복제거|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230211|
 |11723|집합|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230212|
+|13915|현수의 열기구 교실|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230213|
