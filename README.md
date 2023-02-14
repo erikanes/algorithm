@@ -83,3 +83,4 @@
 |13701|중복제거|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230211|
 |11723|집합|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230212|
 |13915|현수의 열기구 교실|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230213|
+|1966|프린터 큐|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230214|
