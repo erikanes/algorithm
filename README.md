@@ -84,3 +84,4 @@
 |11723|집합|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230212|
 |13915|현수의 열기구 교실|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230213|
 |1966|프린터 큐|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230214|
+|10867|중복 빼고 정렬하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230215|
