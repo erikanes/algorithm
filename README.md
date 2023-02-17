@@ -86,3 +86,4 @@
 |1966|프린터 큐|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230214|
 |10867|중복 빼고 정렬하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230215|
 |24480|알고리즘 수업 - 깊이 우선 탐색 2|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230216|
+|1244|스위치 켜고 끄기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230217|
