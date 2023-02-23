@@ -91,3 +91,4 @@
 |1049|기타줄|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230218|
 |9655|돌 게임|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230219|
 |5525|IOIOI|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230221|
+|5639|이진 검색 트리|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230223|
