@@ -97,3 +97,4 @@
 |16953|A → B|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230225|
 |1916|최소비용 구하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230227|
 |2589|보물섬|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230228|
+|18352|특정 거리의 도시 찾기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230301|
