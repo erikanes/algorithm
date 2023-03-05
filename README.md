@@ -101,3 +101,4 @@
 |18352|특정 거리의 도시 찾기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230301|
 |14716|현수막|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230303|
 |16928|뱀과 사다리 게임|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230304|
+|16948|데스 나이트|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230305|
