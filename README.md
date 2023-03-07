@@ -103,3 +103,4 @@
 |16928|뱀과 사다리 게임|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230304|
 |16948|데스 나이트|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230305|
 |2156|포도주 시식|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230306|
+|2170|선 긋기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230307|
