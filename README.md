@@ -105,3 +105,4 @@
 |2156|포도주 시식|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230306|
 |2170|선 긋기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230307|
 |1759|암호 만들기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230308|
+|1766|문제집|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/14.svg>|230310|
