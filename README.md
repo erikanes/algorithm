@@ -108,3 +108,4 @@
 |1759|암호 만들기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230308|
 |1766|문제집|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/14.svg>|230310|
 |4375|1|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230311|
+|1647|도시 분할 계획|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230319|
