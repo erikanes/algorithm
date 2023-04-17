@@ -109,3 +109,4 @@
 |1766|문제집|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/14.svg>|230310|
 |4375|1|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|230311|
 |1647|도시 분할 계획|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230319|
+|25192|인사성 밝은 곰곰이|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230417|
