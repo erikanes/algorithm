@@ -111,3 +111,4 @@
 |1647|도시 분할 계획|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|230319|
 |25192|인사성 밝은 곰곰이|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|230417|
 |2920|음계|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230418|
+|17103|골드바흐 파티션|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230506|
