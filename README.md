@@ -113,3 +113,4 @@
 |2920|음계|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230418|
 |17103|골드바흐 파티션|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230506|
 |13549|숨바꼭질 3|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230507|
+|24444|알고리즘 수업 - 너비 우선 탐색 1|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230509|
