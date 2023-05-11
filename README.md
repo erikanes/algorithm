@@ -114,3 +114,5 @@
 |17103|골드바흐 파티션|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230506|
 |13549|숨바꼭질 3|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230507|
 |24444|알고리즘 수업 - 너비 우선 탐색 1|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230509|
+|2475|검증수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230510|
+|1259|팰린드롬수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/5.svg>|230511|
