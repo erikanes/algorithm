@@ -119,3 +119,4 @@
 |2630|색종이 만들기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230512|
 |12865|평범한 배낭|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230515|
 |11660|구간 합 구하기 5|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230516|
+|1389|케빈 베이컨의 6단계 법칙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230517|
