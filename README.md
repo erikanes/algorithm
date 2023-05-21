@@ -122,3 +122,4 @@
 |1389|케빈 베이컨의 6단계 법칙|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|230517|
 |1107|리모컨|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230519|
 |9251|LCS|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230520|
+|25206|너의 평점은|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230521|
