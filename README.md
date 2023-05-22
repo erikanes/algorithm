@@ -123,3 +123,4 @@
 |1107|리모컨|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230519|
 |9251|LCS|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230520|
 |25206|너의 평점은|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230521|
+|11053|가장 긴 증가하는 부분 수열|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230522|
