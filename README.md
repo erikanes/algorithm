@@ -126,3 +126,4 @@
 |11053|가장 긴 증가하는 부분 수열|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230522|
 |2805|나무 자르기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230523|
 |1436|영화감독 숌|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230524|
+|18111|마인크래프트|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230525|
