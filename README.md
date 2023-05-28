@@ -129,3 +129,4 @@
 |18111|마인크래프트|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230525|
 |15829|Hashing|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230526|
 |1874|스택 수열|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230526|
+|11382|꼬마 정민|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230528|
