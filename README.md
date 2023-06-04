@@ -134,3 +134,4 @@
 |5430|AC|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|230530|
 |1541|잃어버린 괄호|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|230531|
 |1676|팩토리얼 0의 개수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230601|
+|25304|영수증|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230604|
