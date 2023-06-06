@@ -136,3 +136,4 @@
 |1676|팩토리얼 0의 개수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/6.svg>|230601|
 |25304|영수증|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230604|
 |25314|코딩은 체육과목 입니다|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230605|
+|10810|공 넣기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230606|
