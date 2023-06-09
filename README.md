@@ -137,3 +137,4 @@
 |25304|영수증|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230604|
 |25314|코딩은 체육과목 입니다|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/1.svg>|230605|
 |10810|공 넣기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/3.svg>|230606|
+|10813|공 바꾸기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/4.svg>|230609|
