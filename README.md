@@ -155,3 +155,4 @@
 |23630|가장 긴 부분 수열 구하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|240207|
 |1005|ACM Craft|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/13.svg>|240208|
 |5568|카드 놓기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|240214|
+|2447|별 찍기 - 10|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/11.svg>|240222|
