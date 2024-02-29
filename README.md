@@ -161,3 +161,4 @@
 |10844|쉬운 계단 수|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240226|
 |16139|인간-컴퓨터 상호작용|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240229|
 |18110|solved.ac|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/7.svg>|240229|
+|14940|쉬운 최단거리|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240229|
