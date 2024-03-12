@@ -170,3 +170,4 @@
 |17626|Four Squares|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/8.svg>|240229|
 |20529|가장 가까운 세 사람의 심리적 거리|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240305|
 |21736|헌내기는 친구가 필요해|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/9.svg>|240305|
+|14888|연산자 끼워넣기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240312|
