@@ -173,3 +173,4 @@
 |14888|연산자 끼워넣기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240312|
 |14889|스타트와 링크|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240312|
 |14500|테트로미노|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|240312|
+|6064|카잉 달력|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240312|
