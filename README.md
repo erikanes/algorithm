@@ -180,3 +180,4 @@
 |1865|웜홀|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/13.svg>|240320|
 |1967|트리의 지름|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/12.svg>|240322|
 |2206|벽 부수고 이동하기|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/13.svg>|240322|
+|9465|스티커|<img align=center width=15 src=https://d2gd6pc034wcta.cloudfront.net/tier/10.svg>|240322|
